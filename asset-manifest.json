@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-sandbox/static/css/main.1f037c3f.chunk.css",
+    "main.css": "/react-sandbox/static/css/main.4e5055aa.chunk.css",
     "main.js": "/react-sandbox/static/js/main.18e7d33b.chunk.js",
     "main.js.map": "/react-sandbox/static/js/main.18e7d33b.chunk.js.map",
     "runtime-main.js": "/react-sandbox/static/js/runtime-main.d4df6506.js",
@@ -8,15 +8,15 @@
     "static/js/2.9e7b5703.chunk.js": "/react-sandbox/static/js/2.9e7b5703.chunk.js",
     "static/js/2.9e7b5703.chunk.js.map": "/react-sandbox/static/js/2.9e7b5703.chunk.js.map",
     "index.html": "/react-sandbox/index.html",
-    "precache-manifest.ad6d7fee1ca53758f46577fb5bc76f96.js": "/react-sandbox/precache-manifest.ad6d7fee1ca53758f46577fb5bc76f96.js",
+    "precache-manifest.64d1c433cd96e7aa281106bf5c5be3a8.js": "/react-sandbox/precache-manifest.64d1c433cd96e7aa281106bf5c5be3a8.js",
     "service-worker.js": "/react-sandbox/service-worker.js",
-    "static/css/main.1f037c3f.chunk.css.map": "/react-sandbox/static/css/main.1f037c3f.chunk.css.map",
+    "static/css/main.4e5055aa.chunk.css.map": "/react-sandbox/static/css/main.4e5055aa.chunk.css.map",
     "static/js/2.9e7b5703.chunk.js.LICENSE.txt": "/react-sandbox/static/js/2.9e7b5703.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d4df6506.js",
     "static/js/2.9e7b5703.chunk.js",
-    "static/css/main.1f037c3f.chunk.css",
+    "static/css/main.4e5055aa.chunk.css",
     "static/js/main.18e7d33b.chunk.js"
   ]
 }
